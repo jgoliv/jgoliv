@@ -1,6 +1,6 @@
 <h2 align="left">Hey there 👋</h2>
 
-##### 💻 Here are some of the technologies I work with:
+#### 💻 Here are some of the technologies I work with:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R logo" />
@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/dcurtis/markdown-mark/master/png/208x128-solid.png" height="30" alt="Markdown logo" />
 </div>
 
-##### 🌱 Currently learning:
+#### 🌱 Currently learning:
 
 <div align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="30" alt="Django logo" />
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
 </div>
 
-### 📊 Some stats!
+#### 📊 Some stats!
 
 <div align="center">
   <a href="https://github.com/jgoliv">
@@ -34,7 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jgoliv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="150" alt="languages graph"/>
 </div>
   
-### 📫 Reach me!
+#### 📫 Reach me!
 
 <div align="left">
   <a href="mailto:jgolivjesus@gmail.com">
