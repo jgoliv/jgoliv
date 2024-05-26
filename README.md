@@ -1,4 +1,4 @@
-<h2 align="left">Hey there! 👋 I'm João Gabriel. Welcome!</h2>
+<h2 align="left">Hey there 👋</h2>
 
 ##### 💻 Here are some of the technologies I work with:
 
