@@ -5,13 +5,13 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30" alt="Julia logo" />
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/shiny.png" height="30" alt="Shiny logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/dcurtis/markdown-mark/master/png/208x128-solid.png" height="30" alt="Markdown logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30" alt="Julia logo" />
 </div>
 
 #### 🌱 Currently learning:
