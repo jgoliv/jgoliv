@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🌱 Currently studying: <strong>Julia, Django and AWS.</strong>
+  🌱 Currently studying: <strong>SQL and AWS.</strong>
 </p>
 
 <p align="left">
