@@ -13,6 +13,13 @@
 </p>
 
 <p align="left">
+  🌐 My website: 
+  <a href="https://jgoliv.github.io/" target="_blank">
+    <strong>https://jgoliv.github.io/</strong>
+  </a>
+</p>
+
+<p align="left">
   <p align="left"> 🚀 Stats: </p>
    <a href="https://github.com/jgoliv">
     <img src="https://streak-stats.demolab.com?user=jgoliv&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
