@@ -5,11 +5,11 @@
 💡 Data Scientist with a solid foundation in mathematics and statistics, driven by a passion for solving problems.
 
 <p align="left">
-  🛠️  Some of the technologies I work with: <strong>R, Python, Shiny, and Markdown.</strong>
+  🛠️  Some of the technologies I work with: <strong>R, Python, Shiny, SQL and Markdown.</strong>
 </p>
 
 <p align="left">
-  🌱 Currently studying: <strong>SQL and AWS.</strong>
+  🌱 Currently studying: <strong>AWS.</strong>
 </p>
 
 <p align="left">
