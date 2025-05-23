@@ -15,6 +15,5 @@
 
 - **Email:** [jgolivjesus@gmail.com](mailto:jgolivjesus@gmail.com)  
 - **LinkedIn:** [in/jgoliv](https://www.linkedin.com/in/jgoliv/) 
-- **Website:** [jgoliv.github.io](https://jgoliv.github.io/)  
 
 *Feel free to drop me a line!*  
