@@ -2,7 +2,7 @@
 
 **Data Scientist** with a solid foundation in mathematics and statistics, driven by a passion for solving problems.
 
-## Tech & Tools
+## Tools
 
 - **Languages & Frameworks:** `R` · `Python` · `Julia` · `Shiny`
 - **Data Manipulation & Viz:** `pandas` · `matplotlib` · `seaborn` · `{dplyr}` · `{echarts}` · `{ggplot2}` · `{leaflet}` · `{reactable}`
@@ -15,5 +15,3 @@
 
 - **Email:** [jgolivjesus@gmail.com](mailto:jgolivjesus@gmail.com)  
 - **LinkedIn:** [in/jgoliv](https://www.linkedin.com/in/jgoliv/) 
-
-*Feel free to drop me a line!*  
